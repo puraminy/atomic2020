@@ -1,0 +1,31 @@
+prefix	input_text	target_text	sel
+xIntent	PersonX applies to jobs	to be employed	False
+xIntent	PersonX applies to jobs	to be happier	False
+xIntent	PersonX applies to jobs	to make money	False
+xIntent	PersonX practices singing	because he likes to sing	False
+xIntent	PersonX practices singing	to entertain someone	False
+xIntent	PersonX practices singing	to sing sweetly	False
+xIntent	PersonX sings PersonX's heart out	to have fun	False
+xIntent	PersonX sings PersonX's heart out	to practice	False
+xIntent	PersonX sings PersonX's heart out	to release tension	False
+xIntent	PersonX wants a car	a status symbol	False
+xIntent	PersonX wants a car	the ability to drive places	False
+xIntent	PersonX wants a car	to be able to have transportation	False
+xIntent	PersonX wants to learn how to cook	cook for their beloved persony	False
+xIntent	PersonX wants to learn how to cook	to cook new things	False
+xIntent	PersonX wants to learn how to cook	to eat new things	False
+xIntent	PersonX wears gloves	to protect hands	False
+xIntent	PersonX wears gloves	to protect his hands	False
+xIntent	PersonX wears gloves	to prvent cold	False
+xIntent	commit suicide	avoid pain	False
+xIntent	commit suicide	avoid problems	False
+xIntent	commit suicide	end pain	False
+xIntent	eat	feed hunger	False
+xIntent	eat	fill stomath	False
+xIntent	eat	not hungry	False
+xIntent	play chess	enjoy challenge	False
+xIntent	play chess	enjoy challenges	False
+xIntent	play chess	exercise analytical skills	False
+xIntent	stay in bed	felt sick	False
+xIntent	stay in bed	have sex again	False
+xIntent	stay in bed	keep warm	False
