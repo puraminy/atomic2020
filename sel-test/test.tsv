@@ -1,10 +1,25 @@
 prefix	input_text	target_text	sel
 xIntent	PersonX applies to jobs	to be employed	False
 xIntent	PersonX applies to jobs	to be happier	False
+xIntent	PersonX applies to jobs	to get a job	False
 xIntent	PersonX applies to jobs	to make money	False
+xIntent	PersonX does very well in school	to be a success	False
+xIntent	PersonX does very well in school	to get a good job	False
+xIntent	PersonX does very well in school	to get good grades	False
+xIntent	PersonX plays a new instrument	to happy	False
+xIntent	PersonX plays a new instrument	to hear music	False
+xIntent	PersonX plays a new instrument	to learn music	False
 xIntent	PersonX practices singing	because he likes to sing	False
+xIntent	PersonX practices singing	to be a good singer	False
+xIntent	PersonX practices singing	to be entertained	False
 xIntent	PersonX practices singing	to entertain someone	False
 xIntent	PersonX practices singing	to sing sweetly	False
+xIntent	PersonX searches for a job	employment	False
+xIntent	PersonX searches for a job	to earn money	False
+xIntent	PersonX searches for a job	to make money	False
+xIntent	PersonX shuts the door behind PersonY	the door closed	False
+xIntent	PersonX shuts the door behind PersonY	to keep the heat in	False
+xIntent	PersonX shuts the door behind PersonY	to keep the wind out	False
 xIntent	PersonX sings PersonX's heart out	to have fun	False
 xIntent	PersonX sings PersonX's heart out	to practice	False
 xIntent	PersonX sings PersonX's heart out	to release tension	False
@@ -12,20 +27,32 @@ xIntent	PersonX wants a car	a status symbol	False
 xIntent	PersonX wants a car	the ability to drive places	False
 xIntent	PersonX wants a car	to be able to have transportation	False
 xIntent	PersonX wants to learn how to cook	cook for their beloved persony	False
+xIntent	PersonX wants to learn how to cook	to be a better cook	False
 xIntent	PersonX wants to learn how to cook	to cook new things	False
 xIntent	PersonX wants to learn how to cook	to eat new things	False
+xIntent	PersonX watches old movies	to be entertained	False
+xIntent	PersonX watches old movies	to pass the time	False
+xIntent	PersonX watches old movies	to see the movies	False
 xIntent	PersonX wears gloves	to protect hands	False
+xIntent	PersonX wears gloves	to protect himself	False
 xIntent	PersonX wears gloves	to protect his hands	False
 xIntent	PersonX wears gloves	to prvent cold	False
 xIntent	commit suicide	avoid pain	False
 xIntent	commit suicide	avoid problems	False
 xIntent	commit suicide	end pain	False
+xIntent	commit suicide	to kill himself	False
 xIntent	eat	feed hunger	False
 xIntent	eat	fill stomath	False
 xIntent	eat	not hungry	False
+xIntent	eat	to be healthy	False
+xIntent	hairdressing salon	complaining about one's husband	False
+xIntent	hairdressing salon	get hair cut	False
+xIntent	hairdressing salon	get haircut	False
 xIntent	play chess	enjoy challenge	False
 xIntent	play chess	enjoy challenges	False
 xIntent	play chess	exercise analytical skills	False
 xIntent	stay in bed	felt sick	False
 xIntent	stay in bed	have sex again	False
 xIntent	stay in bed	keep warm	False
+xIntent	stay in bed	to be comfortable	False
+xIntent	stay in bed	to sleep	False
