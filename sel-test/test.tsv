@@ -1,4 +1,26 @@
 prefix	input_text	target_text	sel
+xAttr	PersonX applies for jobs	desperate	False
+xAttr	PersonX applies for jobs	eager	False
+xAttr	PersonX applies for jobs	hardworking	False
+xAttr	PersonX beats everyone	capable	False
+xAttr	PersonX beats everyone	skilled	False
+xAttr	PersonX beats everyone	talented	False
+xAttr	PersonX stays clean	neat	False
+xAttr	PersonX stays clean	tidy	False
+xAttr	PersonX studies for an exam	motivated	False
+xAttr	PersonX studies for an exam	responsible	False
+xAttr	PersonX studies for an exam	smart	False
+xAttr	PersonX takes a new job	adventurous	False
+xAttr	PersonX takes a new job	lucky	False
+xAttr	PersonX takes a new job	persistent	False
+xAttr	PersonX throws PersonY overboard	aggressive	False
+xAttr	PersonX throws PersonY overboard	uncaring	False
+xAttr	PersonX throws PersonY overboard	violent	False
+xAttr	PersonX throws money away	careless	False
+xAttr	PersonX throws money away	indulgent	False
+xAttr	PersonX travels to france	excited	False
+xAttr	PersonX travels to france	international	False
+xAttr	PersonX travels to france	patient	False
 xIntent	PersonX applies to jobs	to be employed	False
 xIntent	PersonX applies to jobs	to be happier	False
 xIntent	PersonX applies to jobs	to get a job	False
@@ -6,6 +28,9 @@ xIntent	PersonX applies to jobs	to make money	False
 xIntent	PersonX does very well in school	to be a success	False
 xIntent	PersonX does very well in school	to get a good job	False
 xIntent	PersonX does very well in school	to get good grades	False
+xIntent	PersonX enters an art contest	to be recognized as an artist	False
+xIntent	PersonX enters an art contest	to show their work	False
+xIntent	PersonX enters an art contest	to win the contest	False
 xIntent	PersonX plays a new instrument	to happy	False
 xIntent	PersonX plays a new instrument	to hear music	False
 xIntent	PersonX plays a new instrument	to learn music	False
@@ -36,6 +61,7 @@ xIntent	PersonX watches old movies	to see the movies	False
 xIntent	PersonX wears gloves	to protect hands	False
 xIntent	PersonX wears gloves	to protect himself	False
 xIntent	PersonX wears gloves	to protect his hands	False
+xIntent	PersonX wears gloves	to protect their hands	False
 xIntent	PersonX wears gloves	to prvent cold	False
 xIntent	commit suicide	avoid pain	False
 xIntent	commit suicide	avoid problems	False
@@ -48,6 +74,10 @@ xIntent	eat	to be healthy	False
 xIntent	hairdressing salon	complaining about one's husband	False
 xIntent	hairdressing salon	get hair cut	False
 xIntent	hairdressing salon	get haircut	False
+xIntent	hairdressing salon	to be fashionable	False
+xIntent	jump rope	exercise and have fun	False
+xIntent	jump rope	get exercise	False
+xIntent	jump rope	have fun	False
 xIntent	play chess	enjoy challenge	False
 xIntent	play chess	enjoy challenges	False
 xIntent	play chess	exercise analytical skills	False
